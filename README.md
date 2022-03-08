@@ -1,4 +1,4 @@
-A project created via Code Institute to summarise the HTML & CSS sections of the Full Stack Diploma in Software Development.
+A project created via Code Institute to summarise the HTML & CSS sections of the Diploma in Full Stack Software Development.
 
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
